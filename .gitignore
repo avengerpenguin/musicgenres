@@ -1,0 +1,10 @@
+genres.ttl
+node_modules
+Music/.obsidian/workspace*
+.idea
+.direnv
+venv
+output
+dist
+__pycache__
+/.obsidian/workspace.json

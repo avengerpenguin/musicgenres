@@ -1,0 +1,42 @@
+// https://www.colourlovers.com/palette/3190324/A_Theory_of_Feelings
+$highlight-colour: #DFC5A5;
+$background-colour: #F3DDB8;
+$foreground-colour: #26242F;
+$link-colour: #FE8471;
+
+body {
+    background-color: $background-colour;
+    color: $foreground-colour;
+    a {
+        color: $link-colour;
+        &:hover, &:focus {
+            color: $highlight-colour;
+        }
+        &:visited {
+            color: #BA655D;
+        }
+    }
+}
+
+#disqus_thread {
+    margin-top: 3em;
+}
+
+/*
+Search
+*/
+form.search {
+    margin: 0;
+    #tipue_search_input {
+        width: 100%;
+        background-position-y: 25px;
+    }
+}
+.tipue_search_content_title {
+    font-size: 140%;
+}
+
+.tipue_search_content_text span {
+    font-weight: bold;
+    color: $link-colour;
+}
