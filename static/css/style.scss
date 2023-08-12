@@ -7,6 +7,7 @@ $link-colour: #FE8471;
 body {
     background-color: $background-colour;
     color: $foreground-colour;
+    margin: 0;
     a {
         color: $link-colour;
         &:hover, &:focus {
