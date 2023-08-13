@@ -19,3 +19,4 @@ MENUITEMS_START = (
 )
 
 MARKDOWN["extension_configs"]["voltaire.graphviz"] = {}
+TYPOGRIFY_IGNORE_TAGS = ['svg']
