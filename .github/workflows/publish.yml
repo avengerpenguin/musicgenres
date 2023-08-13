@@ -24,6 +24,7 @@ jobs:
       - name: Download fonts
         run: npm install
       - name: Build Pages Only
+        if: github.ref != 'refs/heads/main'
         run: PYTHONPATH=. invoke build
       - name: Build Pages and Publish
         if: github.ref == 'refs/heads/main'
