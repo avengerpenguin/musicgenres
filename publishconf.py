@@ -1,6 +1,6 @@
 from pelicanconf import *  # noqa
 
-SITEURL = "http://music.avengerpenguin.com"
+SITEURL = "https://historyofsound.com"
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = False
