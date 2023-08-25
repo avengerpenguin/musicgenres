@@ -3,6 +3,10 @@ _id: http://dbpedia.org/resource/Hi-NRG
 title: Hi-NRG
 ---
 
+Emerging in the late 1970s and reaching its peak during the 1980s, Hi-NRG (High Energy) is a genre that evolved from the disco era. It incorporated the driving rhythm and pulsating beats of disco music but introduced a faster tempo and more intense electronic elements. Hi-NRG's lively and energetic nature made it an instant hit within dance clubs, where its infectious grooves encouraged frenetic movement and exhilarating dance routines.
+
+Hi-NRG music continues to be celebrated for its high-energy, captivating beats, and electrifying sound. It has influenced subsequent electronic dance music genres, leaving an enduring legacy that continues to inspire artists and fuel dance floors worldwide.
+
 ```dot
 digraph {
 	graph [bgcolor="#F3DDB8" rankdir=LR]
@@ -39,9 +43,6 @@ digraph {
 }
 ```
 
-Emerging in the late 1970s and reaching its peak during the 1980s, Hi-NRG (High Energy) is a genre that evolved from the disco era. It incorporated the driving rhythm and pulsating beats of disco music but introduced a faster tempo and more intense electronic elements. Hi-NRG's lively and energetic nature made it an instant hit within dance clubs, where its infectious grooves encouraged frenetic movement and exhilarating dance routines.
-
-Hi-NRG music continues to be celebrated for its high-energy, captivating beats, and electrifying sound. It has influenced subsequent electronic dance music genres, leaving an enduring legacy that continues to inspire artists and fuel dance floors worldwide.
 ## Key Characteristics
 
 Hi-NRG is instantly recognisable due to its distinct characteristics:

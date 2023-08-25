@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "sass": "^1.65.1"
+    "@fontsource-variable/manrope": "^5.0.8",
+    "@fontsource/luckiest-guy": "^5.0.8",
+    "npm": "^9.8.1",
+    "sass": "^1.66.1"
+  },
+  "scripts": {
+    "postinstall": "mkdir -p static/css/files && cp node_modules/@fontsource*/*/files/* static/css/files/"
   }
 }

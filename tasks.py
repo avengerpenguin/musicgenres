@@ -1,3 +1,3 @@
 import voltaire
 
-namespace = voltaire.site(domain='music.avengerpenguin.com')
+namespace = voltaire.site(domain='historyofsound.com')
