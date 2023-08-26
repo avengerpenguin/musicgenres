@@ -1,16 +1,14 @@
-import re
-
 from voltaire.pelican import *
 
 
-SITENAME = "Music Genres"
+SITENAME = "History of Sound"
 PATH = "./Music"
 PAGE_PATHS = [""]
 ARTICLE_PATHS = ["articles"]
 
-PLUGINS += ['voltaire.search', 'yaml_metadata']
+PLUGINS += ["voltaire.search", "yaml_metadata"]
 TEMPLATE_PAGES = {
-    'search.html': 'search/index.html',
+    "search.html": "search/index.html",
 }
 
 MENUITEMS_START = (
@@ -19,4 +17,4 @@ MENUITEMS_START = (
 )
 
 MARKDOWN["extension_configs"]["voltaire.graphviz"] = {}
-TYPOGRIFY_IGNORE_TAGS = ['svg']
+TYPOGRIFY_IGNORE_TAGS = ["svg"]
