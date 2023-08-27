@@ -1,12 +1,10 @@
-import json
 import urllib.error
 
 import yaml
-from typing import Generator, Iterator, Set
-from pyld import jsonld
+from typing import Set
 import graphviz
 import rdflib
-from SPARQLWrapper import SPARQLWrapper, SPARQLWrapper2, JSON, XML, N3, RDF
+from SPARQLWrapper import SPARQLWrapper
 import pathlib
 from laconia import ThingFactory
 from rdflib import URIRef
@@ -22,7 +20,7 @@ def make_graph() -> rdflib.Graph:
     PREFIX dbo: <http://dbpedia.org/ontology/>
     PREFIX dbp: <http://dbpedia.org/property/>
     PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-    
+
     CONSTRUCT {{
         ?g1 ap:influences ?g2 .
         ?g1 rdfs:label ?l1 .
@@ -40,22 +38,26 @@ def make_graph() -> rdflib.Graph:
     """
     )
     g = sparql.queryAndConvert()
-    g.bind('ap', URIRef('http://avengerpenguin.com/vocab#'))
-    for s, o in g.subject_objects(predicate=URIRef("http://avengerpenguin.com/vocab#influences")):
+    g.bind("ap", URIRef("http://avengerpenguin.com/vocab#"))
+    for s, o in g.subject_objects(
+        predicate=URIRef("http://avengerpenguin.com/vocab#influences")
+    ):
         g.add((o, URIRef("http://avengerpenguin.com/vocab#derives"), s))
-    with open('genres.ttl', 'w') as f:
-        f.write(g.serialize(format='turtle'))
+    with open("genres.ttl", "w") as f:
+        f.write(g.serialize(format="turtle"))
     return g
 
 
 def item_graphs() -> [rdflib.Graph]:
     visited: Set[str] = set()
     todo: Set[str] = {"http://dbpedia.org/resource/Acid_jazz"}
-    rels = frozenset({
-        "http://dbpedia.org/ontology/derivative",
-        "http://dbpedia.org/property/derivatives",
-        "http://dbpedia.org/ontology/stylisticOrigin",
-    })
+    rels = frozenset(
+        {
+            "http://dbpedia.org/ontology/derivative",
+            "http://dbpedia.org/property/derivatives",
+            "http://dbpedia.org/ontology/stylisticOrigin",
+        }
+    )
 
     while todo:
         uri: str = todo.pop()
@@ -77,21 +79,25 @@ def item_graphs() -> [rdflib.Graph]:
                     continue
 
         for s, p, o in g:
-            if type(o) == rdflib.Literal and o.language and o.language != 'en':
+            if type(o) == rdflib.Literal and o.language and o.language != "en":
                 g.remove((s, p, o))
                 continue
 
-        g.bind('dbo', URIRef('http://dbpedia.org/ontology/'))
-        g.bind('dbp', URIRef('http://dbpedia.org/property/'))
+        g.bind("dbo", URIRef("http://dbpedia.org/ontology/"))
+        g.bind("dbp", URIRef("http://dbpedia.org/property/"))
         yield g
 
 
 def make_items():
     g = make_graph()
-    for s in set(g.subjects(predicate=URIRef("http://avengerpenguin.com/vocab#influences"))):
+    for s in set(
+        g.subjects(predicate=URIRef("http://avengerpenguin.com/vocab#influences"))
+    ):
         i = ThingFactory(g)(URIRef(str(s)))
         yield g, i
-    for s in set(g.subjects(predicate=URIRef("http://avengerpenguin.com/vocab#derives"))):
+    for s in set(
+        g.subjects(predicate=URIRef("http://avengerpenguin.com/vocab#derives"))
+    ):
         i = ThingFactory(g)(URIRef(str(s)))
         yield g, i
 
@@ -156,13 +162,13 @@ if __name__ == "__main__":
             "_id": str(item),
             "title": str(item.rdfs_label.any()),
         }
-        with open(item_path, 'w') as f:
-            f.write('---\n')
+        with open(item_path, "w") as f:
+            f.write("---\n")
             f.write(yaml.dump(framed))
-            f.write('---\n')
+            f.write("---\n")
 
             dot = graphviz.Digraph(
-                graph_attr={'rankdir': 'LR', "bgcolor": "#F3DDB8"},
+                graph_attr={"rankdir": "LR", "bgcolor": "#F3DDB8"},
                 node_attr={"penwidth": "3.0", "color": "#26242F"},
             )
             dot.node(item.rdfs_label.any(), shape="circle")
@@ -208,18 +214,18 @@ if __name__ == "__main__":
                     item.rdfs_label.any(),
                     influenced.rdfs_label.any(),
                 )
-            f.write('\n```dot\n')
+            f.write("\n```dot\n")
             f.write(dot.source)
-            f.write('```\n')
-            f.write('\n')
-            f.write(item.rdfs_comment.any() or '')
-            f.write('\n')
+            f.write("```\n")
+            f.write("\n")
+            f.write(item.rdfs_comment.any() or "")
+            f.write("\n")
             if item.ap_derives:
-                f.write('\n## Influences\n')
+                f.write("\n## Influences\n")
                 for influence in item.ap_derives:
                     f.write(f"- [[{influence.rdfs_label.any()}]]\n")
             if item.ap_influences:
-                f.write('\n## Derivatives\n')
+                f.write("\n## Derivatives\n")
                 for influenced in item.ap_influences:
                     f.write(f"- [[{influenced.rdfs_label.any()}]]\n")
         # graph.serialize(format='application/ld+json')

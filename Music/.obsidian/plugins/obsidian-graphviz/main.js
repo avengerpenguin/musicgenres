@@ -3130,7 +3130,7 @@ var Processors = class {
       el.appendChild(div);
       const script = document.createElement("script");
       const escapedSource = source.replaceAll("\\", "\\\\").replaceAll("`", "\\`");
-      script.text = `if( typeof d3 != 'undefined') { 
+      script.text = `if( typeof d3 != 'undefined') {
         d3.select("#${graphId}").graphviz()
         .onerror(d3error)
        .renderDot(\`${escapedSource}\`);
