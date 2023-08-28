@@ -67,11 +67,11 @@ Hi-NRG vocalists often deliver their lyrics with intense emotion and energy, per
 Several artists and songs have come to epitomise the Hi-NRG genre:
 
 1. [Donna Summer](https://amzn.to/3KBuyW1) - "I Feel Love": Often dubbed the "Queen of Disco," Donna Summer's "I Feel Love" (1977) is a groundbreaking track that not only paved the way for Hi-NRG but also became a touchstone for electronic dance music.
-2. Patrick Cowley - "Menergy": Considered one of the pioneers of Hi-NRG, Patrick Cowley's "Menergy" (1981) is a quintessential track that exemplifies the genre's synthesis of disco and electronic elements.
-3. Divine - "You Think You're a Man": Divine's "You Think You're a Man" (1984) is a prime example of Hi-NRG's bold and unapologetic style, featuring powerful vocals and an irresistibly catchy beat.
-4. Evelyn Thomas - "High Energy": As the genre's namesake, Evelyn Thomas's "High Energy" (1984) is a definitive anthem that showcases the fast-paced, electrifying essence of Hi-NRG.
+2. [Patrick Cowley](https://amzn.to/3QTTSun) - "Menergy": Considered one of the pioneers of Hi-NRG, Patrick Cowley's "Menergy" (1981) is a quintessential track that exemplifies the genre's synthesis of disco and electronic elements.
+3. [Divine](https://amzn.to/3Z0vbys) - "You Think You're a Man": Divine's "You Think You're a Man" (1984) is a prime example of Hi-NRG's bold and unapologetic style, featuring powerful vocals and an irresistibly catchy beat.
+4. [Evelyn Thomas](https://amzn.to/3PeO1yj) - "High Energy": As the genre's namesake, Evelyn Thomas's "High Energy" (1984) is a definitive anthem that showcases the fast-paced, electrifying essence of Hi-NRG.
 5. [Dead or Alive](https://amzn.to/3s4IqSd) - "You Spin Me Round (Like a Record)": This iconic track by Dead or Alive became a global hit with its pulsating rhythm, dynamic vocals, and memorable hooks.
-6. The Flirts - "Passion": The Flirts' "Passion" (1982) captures the essence of Hi-NRG with its energetic tempo, synth-driven melodies, and lively vocal delivery.
+6. [The Flirts](https://amzn.to/3L17nER) - "Passion": The Flirts' "Passion" (1982) captures the essence of Hi-NRG with its energetic tempo, synth-driven melodies, and lively vocal delivery.
 
 ## Influences
 - [[Disco]]
