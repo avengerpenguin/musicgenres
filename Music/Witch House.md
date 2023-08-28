@@ -1,29 +1,29 @@
 ---
 _id: http://dbpedia.org/resource/Witch_house_(genre)
-title: Witch house (genre)
+title: Witch House
 ---
 
 ```dot
 digraph {
 	graph [bgcolor="#F3DDB8" rankdir=LR]
 	node [color="#26242F" penwidth=3.0]
-	"Witch house (genre)" [shape=circle]
+	"Witch House" [shape=circle]
 	"Gothic rock" [URL="/gothic-rock/"]
-	"Gothic rock" -> "Witch house (genre)"
+	"Gothic rock" -> "Witch House"
 	"Cloud rap" [URL="/cloud-rap/"]
-	"Cloud rap" -> "Witch house (genre)"
+	"Cloud rap" -> "Witch House"
 	"Noise music" [URL="/noise-music/"]
-	"Noise music" -> "Witch house (genre)"
+	"Noise music" -> "Witch House"
 	"UK bass" [URL="/uk-bass/"]
-	"UK bass" -> "Witch house (genre)"
+	"UK bass" -> "Witch House"
 	"Chopped and screwed" [URL="/chopped-and-screwed/"]
-	"Chopped and screwed" -> "Witch house (genre)"
+	"Chopped and screwed" -> "Witch House"
 	Shoegaze [URL="/shoegaze/"]
-	Shoegaze -> "Witch house (genre)"
+	Shoegaze -> "Witch House"
 	"Ethereal wave" [URL="/ethereal-wave/"]
-	"Ethereal wave" -> "Witch house (genre)"
+	"Ethereal wave" -> "Witch House"
 	Neoperreo [URL="/neoperreo/"]
-	"Witch house (genre)" -> Neoperreo
+	"Witch House" -> Neoperreo
 }
 ```
 

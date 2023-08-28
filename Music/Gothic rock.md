@@ -32,8 +32,8 @@ digraph {
 	"Gothic rock" -> "Pagan rock"
 	"Cold wave (music)" [URL="/cold-wave-music/"]
 	"Gothic rock" -> "Cold wave (music)"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Gothic rock" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"Gothic rock" -> "Witch House"
 	"Dream pop" [URL="/dream-pop/"]
 	"Gothic rock" -> "Dream pop"
 	"Neue Deutsche Todeskunst" [URL="/neue-deutsche-todeskunst/"]
@@ -58,6 +58,6 @@ Gothic rock (also called goth rock or simply goth) is a style of rock music that
 - [[Gothic metal]]
 - [[Pagan rock]]
 - [[Cold wave (music)]]
-- [[Witch house (genre)]]
+- [[Witch House]]
 - [[Dream pop]]
 - [[Neue Deutsche Todeskunst]]

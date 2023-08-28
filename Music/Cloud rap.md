@@ -18,8 +18,8 @@ digraph {
 	"Trap music" -> "Cloud rap"
 	"Emo rap" [URL="/emo-rap/"]
 	"Cloud rap" -> "Emo rap"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Cloud rap" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"Cloud rap" -> "Witch House"
 }
 ```
 
@@ -33,4 +33,4 @@ Cloud rap is a subgenre of Southern rap and trap music that has several sonic ch
 
 ## Derivatives
 - [[Emo rap]]
-- [[Witch house (genre)]]
+- [[Witch House]]

@@ -22,8 +22,8 @@ digraph {
 	"Ethereal wave" -> "Nu gaze"
 	"Dream pop" [URL="/dream-pop/"]
 	"Ethereal wave" -> "Dream pop"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Ethereal wave" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"Ethereal wave" -> "Witch House"
 	"Pagan rock" [URL="/pagan-rock/"]
 	"Ethereal wave" -> "Pagan rock"
 }
@@ -41,5 +41,5 @@ Ethereal wave, also called ethereal darkwave, ethereal goth or simply ethereal, 
 - [[Shoegaze]]
 - [[Nu gaze]]
 - [[Dream pop]]
-- [[Witch house (genre)]]
+- [[Witch House]]
 - [[Pagan rock]]

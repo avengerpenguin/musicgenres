@@ -24,8 +24,8 @@ digraph {
 	Techno -> "UK bass"
 	"Bleep techno" [URL="/bleep-techno/"]
 	"Bleep techno" -> "UK bass"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"UK bass" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"UK bass" -> "Witch House"
 }
 ```
 
@@ -42,4 +42,4 @@ UK bass, also called bass music, is club music that emerged in the United Kingdo
 - [[Bleep techno]]
 
 ## Derivatives
-- [[Witch house (genre)]]
+- [[Witch House]]

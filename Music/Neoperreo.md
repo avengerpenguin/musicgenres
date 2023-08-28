@@ -14,8 +14,8 @@ digraph {
 	"Trap music" -> Neoperreo
 	Reggaeton [URL="/reggaeton/"]
 	Reggaeton -> Neoperreo
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Witch house (genre)" -> Neoperreo
+	"Witch House" [URL="/witch-house/"]
+	"Witch House" -> Neoperreo
 }
 ```
 
@@ -25,4 +25,4 @@ Neoperreo is a subgenre of reggaeton with some degree of popularity in Los Angel
 - [[Moombahton]]
 - [[Trap music]]
 - [[Reggaeton]]
-- [[Witch house (genre)]]
+- [[Witch House]]

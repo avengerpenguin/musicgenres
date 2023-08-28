@@ -12,8 +12,8 @@ digraph {
 	"Electronic music" -> "Noise music"
 	"No wave" [URL="/no-wave/"]
 	"Noise music" -> "No wave"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Noise music" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"Noise music" -> "Witch House"
 	"Dark ambient" [URL="/dark-ambient/"]
 	"Noise music" -> "Dark ambient"
 	"Outsider house" [URL="/outsider-house/"]
@@ -50,7 +50,7 @@ Noise music is a genre of music that is characterised by the expressive use of n
 
 ## Derivatives
 - [[No wave]]
-- [[Witch house (genre)]]
+- [[Witch House]]
 - [[Dark ambient]]
 - [[Outsider house]]
 - [[Hypnagogic pop]]

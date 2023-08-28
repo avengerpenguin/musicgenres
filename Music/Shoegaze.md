@@ -28,8 +28,8 @@ digraph {
 	"Neo-psychedelia" -> Shoegaze
 	"Ethereal wave" [URL="/ethereal-wave/"]
 	"Ethereal wave" -> Shoegaze
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	Shoegaze -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	Shoegaze -> "Witch House"
 	"Nu gaze" [URL="/nu-gaze/"]
 	Shoegaze -> "Nu gaze"
 	Chillwave [URL="/chillwave/"]
@@ -52,6 +52,6 @@ Shoegaze (originally called shoegazing and sometimes conflated with "dream pop")
 - [[Ethereal wave]]
 
 ## Derivatives
-- [[Witch house (genre)]]
+- [[Witch House]]
 - [[Nu gaze]]
 - [[Chillwave]]

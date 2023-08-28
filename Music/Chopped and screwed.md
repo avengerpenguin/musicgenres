@@ -12,8 +12,8 @@ digraph {
 	"Hip hop music" -> "Chopped and screwed"
 	Sampledelia [URL="/sampledelia/"]
 	Sampledelia -> "Chopped and screwed"
-	"Witch house (genre)" [URL="/witch-house-genre/"]
-	"Chopped and screwed" -> "Witch house (genre)"
+	"Witch House" [URL="/witch-house/"]
+	"Chopped and screwed" -> "Witch House"
 	"Cloud rap" [URL="/cloud-rap/"]
 	"Chopped and screwed" -> "Cloud rap"
 	Vaporwave [URL="/vaporwave/"]
@@ -32,7 +32,7 @@ Chopped and screwed (also called screwed and chopped or slowed and throwed) is a
 - [[Sampledelia]]
 
 ## Derivatives
-- [[Witch house (genre)]]
+- [[Witch House]]
 - [[Cloud rap]]
 - [[Vaporwave]]
 - [[Phonk]]
