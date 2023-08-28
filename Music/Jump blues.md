@@ -14,8 +14,8 @@ digraph {
 	"Swing music" -> "Jump blues"
 	"Boogie-woogie" [URL="/boogie-woogie/"]
 	"Boogie-woogie" -> "Jump blues"
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Outline of jazz" -> "Jump blues"
+	"Jazz" [URL="/jazz/"]
+	"Jazz" -> "Jump blues"
 	"Rhythm and blues" [URL="/rhythm-and-blues/"]
 	"Jump blues" -> "Rhythm and blues"
 	"West Coast blues" [URL="/west-coast-blues/"]
@@ -33,7 +33,7 @@ Jump blues is an up-tempo style of blues, usually played by small groups and fea
 - [[Blues]]
 - [[Swing music]]
 - [[Boogie-woogie]]
-- [[Outline of jazz]]
+- [[Jazz]]
 
 ## Derivatives
 - [[Rhythm and blues]]

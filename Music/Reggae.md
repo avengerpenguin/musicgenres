@@ -22,8 +22,6 @@ digraph {
 	Rocksteady -> Reggae
 	"Soul music" [URL="/soul-music/"]
 	"Soul music" -> Reggae
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Outline of jazz" -> Reggae
 	"Bleep techno" [URL="/bleep-techno/"]
 	Reggae -> "Bleep techno"
 	Reggaestep [URL="/reggaestep/"]
@@ -97,7 +95,6 @@ Reggae (/ˈrɛɡeɪ/) is a music genre that originated in Jamaica in the late 19
 - [[Jazz]]
 - [[Rocksteady]]
 - [[Soul music]]
-- [[Outline of jazz]]
 
 ## Derivatives
 - [[Bleep techno]]

@@ -18,8 +18,6 @@ digraph {
 	"New Orleans rhythm and blues" -> Ska
 	Jazz [URL="/jazz/"]
 	Jazz -> Ska
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Outline of jazz" -> Ska
 	"Mod revival" [URL="/mod-revival/"]
 	Ska -> "Mod revival"
 	Reggae [URL="/reggae/"]
@@ -55,7 +53,6 @@ Ska (/skɑː/; Jamaican: [skjæ]) is a music genre that originated in Jamaica in
 - [[Calypso music]]
 - [[New Orleans rhythm and blues]]
 - [[Jazz]]
-- [[Outline of jazz]]
 
 ## Derivatives
 - [[Mod revival]]

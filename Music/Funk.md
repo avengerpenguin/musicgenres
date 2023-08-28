@@ -20,8 +20,6 @@ digraph {
 	"Soul music" -> Funk
 	"New Orleans Soul" [URL="/new-orleans-soul/"]
 	"New Orleans Soul" -> Funk
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Outline of jazz" -> Funk
 	"Ball culture" [URL="/ball-culture/"]
 	Funk -> "Ball culture"
 	"West Coast hip hop" [URL="/west-coast-hip-hop/"]
@@ -146,7 +144,6 @@ Funk is a music genre that originated in African American communities in the mid
 - [[Jazz]]
 - [[Soul music]]
 - [[New Orleans Soul]]
-- [[Outline of jazz]]
 
 ## Derivatives
 - [[Ball culture]]

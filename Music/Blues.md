@@ -76,8 +76,6 @@ digraph {
 	Blues -> "Rock music of West Bengal"
 	"Chicago soul" [URL="/chicago-soul/"]
 	Blues -> "Chicago soul"
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	Blues -> "Outline of jazz"
 	Jazz [URL="/jazz/"]
 	Blues -> Jazz
 	"Traditional bluegrass" [URL="/traditional-bluegrass/"]
@@ -188,7 +186,6 @@ Blues is a music genre and musical form which originated in the Deep South of th
 - [[Boogie-woogie]]
 - [[Rock music of West Bengal]]
 - [[Chicago soul]]
-- [[Outline of jazz]]
 - [[Jazz]]
 - [[Traditional bluegrass]]
 - [[Desert blues]]

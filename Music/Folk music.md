@@ -106,8 +106,6 @@ digraph {
 	"Folk music" -> "Chamber jazz"
 	"Industrial folk music" [URL="/industrial-folk-music/"]
 	"Folk music" -> "Industrial folk music"
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Folk music" -> "Outline of jazz"
 	"Jesus music" [URL="/jesus-music/"]
 	"Folk music" -> "Jesus music"
 }
@@ -167,5 +165,4 @@ Folk music is a music genre that includes and the contemporary genre that evolve
 - [[Rock music]]
 - [[Chamber jazz]]
 - [[Industrial folk music]]
-- [[Outline of jazz]]
 - [[Jesus music]]

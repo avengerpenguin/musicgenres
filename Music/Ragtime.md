@@ -24,8 +24,6 @@ digraph {
 	Ragtime -> "Kansas City jazz"
 	"Piedmont blues" [URL="/piedmont-blues/"]
 	Ragtime -> "Piedmont blues"
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	Ragtime -> "Outline of jazz"
 	Marabi [URL="/marabi/"]
 	Ragtime -> Marabi
 	"Palm-wine music" [URL="/palm-wine-music/"]
@@ -50,7 +48,6 @@ Ragtime – also spelled rag-time or rag time – is a musical style that flouri
 - [[Jazz]]
 - [[Kansas City jazz]]
 - [[Piedmont blues]]
-- [[Outline of jazz]]
 - [[Marabi]]
 - [[Palm-wine music]]
 - [[Swing music]]

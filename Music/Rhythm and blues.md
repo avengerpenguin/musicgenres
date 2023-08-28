@@ -24,8 +24,6 @@ digraph {
 	"Boogie-woogie" -> "Rhythm and blues"
 	"Traditional black gospel" [URL="/traditional-black-gospel/"]
 	"Traditional black gospel" -> "Rhythm and blues"
-	"Outline of jazz" [URL="/outline-of-jazz/"]
-	"Outline of jazz" -> "Rhythm and blues"
 	"Soul blues" [URL="/soul-blues/"]
 	"Rhythm and blues" -> "Soul blues"
 	"Louisiana blues" [URL="/louisiana-blues/"]
@@ -138,7 +136,6 @@ Rhythm and blues, frequently abbreviated as R&B or R'n'B, is a genre of popular 
 - [[Jazz]]
 - [[Boogie-woogie]]
 - [[Traditional black gospel]]
-- [[Outline of jazz]]
 
 ## Derivatives
 - [[Soul blues]]
