@@ -38,6 +38,7 @@ digraph {
 Alternative dance (also known as indie dance or underground dance in the U.S.) is a musical genre that mixes alternative rock with electronic dance music. Although largely confined to the British Isles, it has gained American and worldwide exposure through acts such as New Order in the 1980s and the Prodigy in the 1990s.
 
 ## Influences
+
 - [[Electronica]]
 - [[Post-disco]]
 - [[Indie rock]]
@@ -48,6 +49,7 @@ Alternative dance (also known as indie dance or underground dance in the U.S.) i
 - [[Synth-pop]]
 
 ## Derivatives
+
 - [[New rave]]
 - [[Grebo (music)]]
 - [[Electroclash]]

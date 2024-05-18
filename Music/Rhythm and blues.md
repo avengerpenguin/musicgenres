@@ -128,6 +128,7 @@ digraph {
 Rhythm and blues, frequently abbreviated as R&B or R'n'B, is a genre of popular music that originated in African-American communities in the 1940s. The term was originally used by record companies to describe recordings marketed predominantly to urban African Americans, at a time when "urbane, rocking, jazz based music ... [with a] heavy, insistent beat" was becoming more popular.In the commercial rhythm and blues music typical of the 1950s through the 1970s, the bands usually consisted of piano, one or two guitars, bass, drums, one or more saxophones, and sometimes background vocalists. R&B lyrical themes often encapsulate the African-American experience of pain and the quest for freedom and joy, as well as triumphs and failures in terms of relationships, economics, and aspirations.
 
 ## Influences
+
 - [[Americana (music)]]
 - [[Blues]]
 - [[Swing music]]
@@ -138,6 +139,7 @@ Rhythm and blues, frequently abbreviated as R&B or R'n'B, is a genre of popular 
 - [[Traditional black gospel]]
 
 ## Derivatives
+
 - [[Soul blues]]
 - [[Louisiana blues]]
 - [[Soul music]]

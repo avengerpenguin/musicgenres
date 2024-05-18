@@ -20,6 +20,7 @@ digraph {
 Lao pop or L-pop is a music genre of pop music of Lao people.
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Hip hop music]]
 - [[Pop music]]

@@ -16,4 +16,5 @@ digraph {
 Toi music (Той) is a genre of popular folk music originated from Central Asia. This genre of music is popular in countries like Uzbekistan, Kazakhstan and Kyrgyzstan.
 
 ## Derivatives
+
 - [[Q-pop]]

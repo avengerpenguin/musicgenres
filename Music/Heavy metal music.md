@@ -96,11 +96,13 @@ digraph {
 Heavy metal (or simply metal) is a genre of rock music that developed in the late 1960s and early 1970s, largely in the United Kingdom and United States. With roots in blues rock, psychedelic rock and acid rock, heavy metal bands developed a thick, monumental sound characterized by distorted guitars, extended guitar solos, emphatic beats and loudness.
 
 ## Influences
+
 - [[Psychedelic rock]]
 - [[Blues rock]]
 - [[Occult rock]]
 
 ## Derivatives
+
 - [[New wave of British heavy metal]]
 - [[Grunge]]
 - [[Gothic metal]]

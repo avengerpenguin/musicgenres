@@ -74,6 +74,7 @@ digraph {
 Psychedelic rock is a rock music genre that is inspired, influenced, or representative of psychedelic culture, which is centered on perception-altering hallucinogenic drugs. The music incorporated new electronic sound effects and recording techniques, extended instrumental solos, and improvisation. Many psychedelic groups differ in style, and the label is often applied spuriously.
 
 ## Influences
+
 - [[Blues]]
 - [[Novelty song]]
 - [[Electronic music]]
@@ -83,6 +84,7 @@ Psychedelic rock is a rock music genre that is inspired, influenced, or represen
 - [[Rock music]]
 
 ## Derivatives
+
 - [[Nitzhonot]]
 - [[Peruvian cumbia]]
 - [[Occult rock]]

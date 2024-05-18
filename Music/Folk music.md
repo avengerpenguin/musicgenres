@@ -114,9 +114,11 @@ digraph {
 Folk music is a music genre that includes and the contemporary genre that evolved from the former during the 20th-century folk revival. Some types of folk music may be called world music. Traditional folk music has been defined in several ways: as music transmitted orally, music with unknown composers, music that is played on traditional instruments, music about cultural or national identity, music that changes between generations (folk process), music associated with a people's folklore, or music performed by custom over a long period of time. It has been contrasted with commercial and classical styles. The term originated in the 19th century, but folk music extends beyond that.
 
 ## Influences
+
 - [[Starogradska muzika]]
 
 ## Derivatives
+
 - [[Old-time music]]
 - [[Afro-soul]]
 - [[Progressive rock]]

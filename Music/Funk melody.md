@@ -20,8 +20,10 @@ digraph {
 Funk melody is a fusion genre of funk carioca and Latin freestyle.
 
 ## Influences
+
 - [[Dance-pop]]
 - [[Funk carioca]]
 
 ## Derivatives
+
 - [[Funk ostentação]]

@@ -20,8 +20,10 @@ digraph {
 Latin hip hop (also known as Latin rap) is hip hop music that is recorded by artists in the United States of Hispanic and Latino descent, along with Spanish-speaking countries in the Caribbean, North America, Central America, South America, and Spain.
 
 ## Influences
+
 - [[Hip hop music]]
 
 ## Derivatives
+
 - [[Nuyorican rap]]
 - [[Mexican pop music]]

@@ -230,6 +230,7 @@ digraph {
 Hip hop music or hip-hop music, also known as rap music and formerly known as disco rap, is a genre of popular music that originated in New York City in the 1970s. Developed by inner-city African Americans, Latino Americans, and Caribbean Americans, it consists of stylized rhythmic music (usually built around drum beats) that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. It developed as part of hip hop culture, a subculture defined by four key stylistic elements: MCing/rapping, DJing/scratching with turntables, break dancing, and graffiti writing. Other elements include sampling beats or bass lines from records (or synthesized beats and sounds), and rhythmic beatboxing. While often used to refer solely to rapping, "hip hop" more properly denotes the practice
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Deep funk]]
 - [[Electronic music]]
@@ -241,6 +242,7 @@ Hip hop music or hip-hop music, also known as rap music and formerly known as di
 - [[Disco]]
 
 ## Derivatives
+
 - [[Mahraganat]]
 - [[Funk carioca]]
 - [[Sampledelia]]

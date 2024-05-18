@@ -18,5 +18,6 @@ digraph {
 Pornogrind (also known as porngrind or pornogore) is a musical microgenre offshoot of goregrind that lyrically deals with sexual and pornographic themes, hence the name.
 
 ## Influences
+
 - [[Goregrind]]
 - [[Grindcore]]

@@ -28,6 +28,7 @@ digraph {
 The Dunedin sound was a style of indie pop music created in the southern New Zealand university city of Dunedin in the early 1980s.
 
 ## Influences
+
 - [[Psychedelic pop]]
 - [[Punk rock]]
 - [[Garage rock]]
@@ -35,5 +36,6 @@ The Dunedin sound was a style of indie pop music created in the southern New Zea
 - [[Indie pop]]
 
 ## Derivatives
+
 - [[Indie rock]]
 - [[Dolewave]]

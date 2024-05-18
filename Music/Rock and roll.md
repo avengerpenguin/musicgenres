@@ -136,6 +136,7 @@ digraph {
 Rock and roll (often written as rock & roll, rock 'n' roll, or rock 'n roll) is a genre of popular music that evolved in the United States during the late 1940s and early 1950s. It originated from African-American music such as jazz, rhythm and blues, boogie woogie, and gospel, as well as country music. While rock and roll's formative elements can be heard in blues records from the 1920s and in country records of the 1930s, the genre did not acquire its name until 1954.
 
 ## Influences
+
 - [[Americana (music)]]
 - [[Electric blues]]
 - [[Blues]]
@@ -147,6 +148,7 @@ Rock and roll (often written as rock & roll, rock 'n' roll, or rock 'n roll) is 
 - [[Boogie-woogie]]
 
 ## Derivatives
+
 - [[Chilean rock]]
 - [[British rock and roll]]
 - [[Biker metal]]

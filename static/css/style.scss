@@ -1,89 +1,89 @@
 // https://www.colourlovers.com/palette/48848/disco_gabbana
 $blue: #002930;
-$white: #FFFFFF;
-$yellow: #F8F0AF;
-$brown: #AC4A00;
+$white: #ffffff;
+$yellow: #f8f0af;
+$brown: #ac4a00;
 $black: #000000;
 
-$primary-bg: #0E2431;
-$secondary-bg: #1E4158;
-$accent-color: #F2545B;
-$text-color: #F9F9F9;
-$highlight-color: #00BFFF;
+$primary-bg: #0e2431;
+$secondary-bg: #1e4158;
+$accent-color: #f2545b;
+$text-color: #f9f9f9;
+$highlight-color: #00bfff;
 
 @import "@fontsource/luckiest-guy";
 @import "@fontsource-variable/manrope";
 
 body {
-    background-color: $primary-bg;
-    color: $text-color;
-    margin: 0;
-    padding: 0;
-    font-family: 'Manrope Variable', sans-serif;
-    header {
-        max-width: 100%;
-        background-color: $secondary-bg;
-        padding-top: 2em;
-        a:visited {
-            color: $accent-color;
-        }
-        a:hover, a:focus {
-            color: $highlight-color;
-        }
-        h1 {
-          font-family: 'Luckiest Guy', sans-serif;
-          font-size: 200%
-        }
-        nav {
-            margin: 0 auto;
-        }
+  background-color: $primary-bg;
+  color: $text-color;
+  margin: 0;
+  padding: 0;
+  font-family: "Manrope Variable", sans-serif;
+  header {
+    max-width: 100%;
+    background-color: $secondary-bg;
+    padding-top: 2em;
+    a:visited {
+      color: $accent-color;
     }
-    main {
-        max-width: 1000px;
-        padding-bottom: 2em;
-        margin: 0 auto;
-        h1 {
-          font-family: 'Luckiest Guy', sans-serif;
-          text-align: center;
-        }
-        p:has(svg) {
-             text-align:center;
-        }
+    a:hover,
+    a:focus {
+      color: $highlight-color;
     }
-    a {
-      color: $accent-color; /* Regular link color */
-      text-decoration: none;
+    h1 {
+      font-family: "Luckiest Guy", sans-serif;
+      font-size: 200%;
+    }
+    nav {
+      margin: 0 auto;
+    }
+  }
+  main {
+    max-width: 1000px;
+    padding-bottom: 2em;
+    margin: 0 auto;
+    h1 {
+      font-family: "Luckiest Guy", sans-serif;
+      text-align: center;
+    }
+    p:has(svg) {
+      text-align: center;
+    }
+  }
+  a {
+    color: $accent-color; /* Regular link color */
+    text-decoration: none;
 
-      &:visited {
-        color: lighten($accent-color, 20%); /* Lighter shade for visited links */
-      }
-
-      &:hover,
-      &:focus {
-        color: $highlight-color;
-      }
+    &:visited {
+      color: lighten($accent-color, 20%); /* Lighter shade for visited links */
     }
+
+    &:hover,
+    &:focus {
+      color: $highlight-color;
+    }
+  }
 }
-s
-#disqus_thread {
-    margin-top: 3em;
+s #disqus_thread {
+  margin-top: 3em;
 }
 
 /*
 Search
 */
 form.search {
-    margin: 0;
-    #tipue_search_input {
-        width: 100%;
-        background-position-y: 25px;
-    }
+  margin: 0;
+  #tipue_search_input {
+    width: 100%;
+    background-position-y: 25px;
+  }
 }
 .tipue_search_content_title {
-    font-size: 140%;
+  font-size: 140%;
 }
 
 .tipue_search_content_text span {
-    font-weight: bold;
-    color: $text-color;
+  font-weight: bold;
+  color: $text-color;
 }

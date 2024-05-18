@@ -74,6 +74,7 @@ digraph {
 Rockabilly is one of the earliest styles of rock and roll music. It dates back to the early 1950s in the United States, especially the South. As a genre it blends the sound of Western musical styles such as country with that of rhythm and blues, leading to what is considered "classic" rock and roll. Some have also described it as a blend of bluegrass with rock and roll. The term "rockabilly" itself is a portmanteau of "rock" (from "rock 'n' roll") and "hillbilly", the latter a reference to the country music (often called "hillbilly music" in the 1940s and 1950s) that contributed strongly to the style. Other important influences on rockabilly include western swing, boogie-woogie, jump blues, and electric blues.
 
 ## Influences
+
 - [[Bluegrass music]]
 - [[Rhythm and blues]]
 - [[Country music]]
@@ -82,6 +83,7 @@ Rockabilly is one of the earliest styles of rock and roll music. It dates back t
 - [[Rock and roll]]
 
 ## Derivatives
+
 - [[Psychobilly]]
 - [[Roots rock]]
 - [[Swamp rock]]

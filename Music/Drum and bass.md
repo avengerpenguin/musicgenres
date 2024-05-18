@@ -68,6 +68,7 @@ digraph {
 Drum and bass (also written as drum & bass or drum'n'bass and commonly abbreviated as D&B, DnB, or D'n'B) is a genre of electronic dance music characterized by fast breakbeats (typically 165–185 beats per minute) with heavy bass and sub-bass lines, samples, and synthesizers. The genre grew out of the UK's rave scene in the 1990s.
 
 ## Influences
+
 - [[Electronica]]
 - [[Breakbeat]]
 - [[Darkcore]]
@@ -79,6 +80,7 @@ Drum and bass (also written as drum & bass or drum'n'bass and commonly abbreviat
 - [[Avant-funk]]
 
 ## Derivatives
+
 - [[Footwork (genre)]]
 - [[Drill 'n' bass]]
 - [[UK garage]]

@@ -16,4 +16,5 @@ digraph {
 Slacker rock is a loosely defined genre of rock music and lo-fi music that originated in the United States in the late 1980s and early 1990s.
 
 ## Influences
+
 - [[Indie rock]]

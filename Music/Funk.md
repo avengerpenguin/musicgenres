@@ -138,6 +138,7 @@ digraph {
 Funk is a music genre that originated in African American communities in the mid-1960s when musicians created a rhythmic, danceable new form of music through a mixture of various music genres that were popular among African Americans in the mid-20th century. It de-emphasizes melody and chord progressions and focuses on a strong rhythmic groove of a bassline played by an electric bassist and a drum part played by a percussionist, often at slower tempos than other popular music. Funk typically consists of a complex percussive groove with rhythm instruments playing interlocking grooves that create a "hypnotic" and "danceable" feel. Funk uses the same richly colored extended chords found in bebop jazz, such as minor chords with added sevenths and elevenths, or dominant seventh chords with alte
 
 ## Influences
+
 - [[Memphis soul]]
 - [[Rhythm and blues]]
 - [[Gospel music]]
@@ -146,6 +147,7 @@ Funk is a music genre that originated in African American communities in the mid
 - [[New Orleans Soul]]
 
 ## Derivatives
+
 - [[Ball culture]]
 - [[West Coast hip hop]]
 - [[Smooth soul]]

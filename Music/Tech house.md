@@ -46,13 +46,16 @@ digraph {
 3. Green Velvet, CamelPhat - "Critical": "Critical" (2018) by Green Velvet and CamelPhat showcases the fusion of playful vocals, tech-infused synths, and a propulsive rhythm that defines Tech House.
 4. Solardo - "Tribesmen": Solardo's "Tribesmen" (2016) exemplifies the genre's penchant for driving beats, infectious hooks, and captivating sound design.
 5. Fisher - "Losing It": Fisher's breakout hit "Losing It" (2018) became an anthem with its infectious groove, vocal sample, and unmistakable Tech House vibe.
+
 ## Influences
+
 - [[Deep house]]
 - [[Electroclash]]
 - [[Minimal techno]]
 - [[Techno]]
 
 ## Derivatives
+
 - [[Hookah rap]]
 - [[Future rave]]
 - [[Big room house]]

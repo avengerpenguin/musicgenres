@@ -100,11 +100,13 @@ digraph {
 Alternative rock, or alt-rock, is a category of rock music that emerged from the independent music underground of the 1970s and became widely popular in the 1990s. "Alternative" refers to the genre's distinction from mainstream or commercial rock or pop music. The term's original meaning was broader, referring to musicians influenced by the musical style or independent, DIY ethos of late-1970s punk rock.
 
 ## Influences
+
 - [[Punk rock]]
 - [[Hardcore punk]]
 - [[Post-punk]]
 
 ## Derivatives
+
 - [[Emo]]
 - [[Noise pop]]
 - [[Post-punk revival]]

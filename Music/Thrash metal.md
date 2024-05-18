@@ -48,6 +48,7 @@ digraph {
 Thrash metal (or simply thrash) is an extreme subgenre of heavy metal music characterized by its overall aggression and often fast tempo. The songs usually use fast percussive beats and low-register guitar riffs, overlaid with shredding-style lead guitar work. The lyrical subject matter often includes criticism of The Establishment and concern over environmental destruction, and at times shares a disdain for Christian dogma with that of black metal. The language is typically direct and denunciatory, an approach borrowed from hardcore punk.
 
 ## Influences
+
 - [[Punk rock]]
 - [[D-beat]]
 - [[Speed metal]]
@@ -55,6 +56,7 @@ Thrash metal (or simply thrash) is an extreme subgenre of heavy metal music char
 - [[New wave of British heavy metal]]
 
 ## Derivatives
+
 - [[Early Norwegian black metal scene]]
 - [[Grindcore]]
 - [[Black metal]]

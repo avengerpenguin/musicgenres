@@ -136,6 +136,7 @@ digraph {
 Country (also called country and western) is a genre of popular music that originated with blues, church music such as Southern gospel and spirituals, old-time, and American folk music forms including Appalachian, Cajun, Creole, Hawaiian, and the cowboy Western music styles of New Mexico, Red Dirt, Tejano, and Texas country. Its popularized roots originate in the Southern and Southwestern United States of the early 1920s.
 
 ## Influences
+
 - [[Blues]]
 - [[Appalachian music]]
 - [[Indigenous music of North America]]
@@ -153,6 +154,7 @@ Country (also called country and western) is a genre of popular music that origi
 - [[Ranchera]]
 
 ## Derivatives
+
 - [[Cowpunk]]
 - [[K-pop]]
 - [[Texas country music]]

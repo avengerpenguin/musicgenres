@@ -150,10 +150,12 @@ digraph {
 Blues is a music genre and musical form which originated in the Deep South of the United States around the 1860s. Blues incorporated spirituals, work songs, field hollers, shouts, chants, and rhymed simple narrative ballads from the African-American culture. The blues form is ubiquitous in jazz, rhythm and blues, and rock and roll, and is characterized by the call-and-response pattern (the blues scale and specific chord progressions) of which the twelve-bar blues is the most common. Blue notes (or "worried notes"), usually thirds, fifths or sevenths flattened in pitch, are also an essential part of the sound. Blues shuffles or walking bass reinforce the trance-like rhythm and form a repetitive effect known as the groove.
 
 ## Influences
+
 - [[Folk music]]
 - [[Spirituals]]
 
 ## Derivatives
+
 - [[Atlanta blues]]
 - [[Ryūkōka]]
 - [[Rock and roll]]

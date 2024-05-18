@@ -16,4 +16,5 @@ digraph {
 Welsh hip-hop (Welsh: Hip-hop Cymru) is a genre of Welsh music, and a culture that covers a variety of styles of hip hop music made in Wales.
 
 ## Influences
+
 - [[Hip hop music]]

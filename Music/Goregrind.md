@@ -18,7 +18,9 @@ digraph {
 Goregrind is a fusion genre of grindcore and death metal. British band Carcass are commonly credited for the emergence of the genre. Goregrind is recognized for its heavily edited, pitch shifted "watery"-sounding vocals and abrasive musicianship rooted in grindcore.
 
 ## Influences
+
 - [[Grindcore]]
 
 ## Derivatives
+
 - [[Pornogrind]]

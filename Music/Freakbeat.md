@@ -20,8 +20,10 @@ digraph {
 Freakbeat is a loosely defined subgenre of rock and roll music developed mainly by harder-driving British groups during the Swinging London period of the mid-to late 1960s. The genre bridges British Invasion R&B, beat and psychedelia.
 
 ## Influences
+
 - [[Rock and roll]]
 - [[Rock music]]
 
 ## Derivatives
+
 - [[Power pop]]

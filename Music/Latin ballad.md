@@ -20,8 +20,10 @@ digraph {
 Latin ballad (Spanish: balada romántica) is a sentimental ballad derived from bolero that originated in the early 1960s in Los Angeles, California and Southern California. Some of the best known artists of the Latin ballad are Julio Iglesias, Mocedades, José Luis Rodriguez, Luis Miguel, Camilo Sesto, Emmanuel, Nino Bravo, Roberto Carlos, Ricardo Montaner, Raphael and José José among others. Because of its difficulty, the Latin balladeers are often recognized as skilled singers such as the case of Nino Bravo, Camilo Sesto, José José, Luis Miguel or Raphael.In recent decades it has become the dominant musical genre of Latin pop.
 
 ## Influences
+
 - [[Latin pop]]
 - [[Bolero]]
 
 ## Derivatives
+
 - [[Mexican pop music]]

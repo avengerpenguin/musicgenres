@@ -152,6 +152,7 @@ digraph {
 Punk rock (also known as simply punk) is a music genre that emerged in the mid-1970s. Rooted in 1960s garage rock, punk bands rejected the perceived excesses of mainstream 1970s rock music. They typically produced short, fast-paced songs with hard-edged melodies and singing styles, stripped-down instrumentation, and often shouted political, anti-establishment lyrics. Punk embraces a DIY ethic; many bands self-produce recordings and distribute them through independent record labels.
 
 ## Influences
+
 - [[Proto-punk]]
 - [[Garage rock]]
 - [[Bubblegum music]]
@@ -164,6 +165,7 @@ Punk rock (also known as simply punk) is a music genre that emerged in the mid-1
 - [[Rockabilly]]
 
 ## Derivatives
+
 - [[Cowpunk]]
 - [[Nagoya kei]]
 - [[Grunge]]
