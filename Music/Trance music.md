@@ -105,6 +105,7 @@ digraph {
 
 ## Derivatives
 - [[Acid trance]]
+- [[Uplifting Trance]]
 - [[Balearic trance]]
 - [[Liquid funk]]
 - [[Big room house]]
