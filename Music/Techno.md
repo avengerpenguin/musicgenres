@@ -120,6 +120,7 @@ digraph {
 Techno is a genre of electronic dance music (EDM) which is generally produced for use in a continuous DJ set, with tempo often varying between 120 and 150 beats per minute (bpm). The central rhythm is typically in common time (4/4) and often characterized by a repetitive four on the floor beat. Artists may use electronic instruments such as drum machines, sequencers, and synthesizers, as well as digital audio workstations. Drum machines from the 1980s such as Roland's TR-808 and TR-909 are highly prized, and software emulations of such retro instruments are popular.
 
 ## Influences
+
 - [[Electro (music)]]
 - [[Electronic body music]]
 - [[Chicago house]]
@@ -133,6 +134,7 @@ Techno is a genre of electronic dance music (EDM) which is generally produced fo
 - [[Synth-pop]]
 
 ## Derivatives
+
 - [[Electroclash]]
 - [[Glitch (music)]]
 - [[Jumpstyle]]

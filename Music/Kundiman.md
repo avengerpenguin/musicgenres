@@ -18,7 +18,9 @@ digraph {
 Kundiman is a genre of traditional Filipino love songs. The lyrics of the kundiman are written in Tagalog. The melody is characterized by a smooth, flowing and gentle rhythm with dramatic intervals. Kundiman was the traditional means of serenade in the Philippines. The kundiman emerged as an art song at the end of the 19th century and by the early 20th century, its musical structure was formalised by Filipino composers such as Francisco Santiago and Nicanor Abelardo; they sought poetry for their lyrics, blending verse and music in equal parts.
 
 ## Influences
+
 - [[Philippine folk music]]
 
 ## Derivatives
+
 - [[Manila sound]]

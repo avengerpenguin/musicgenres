@@ -1,6 +1,5 @@
 from voltaire.pelican import *
 
-
 SITENAME = "History of Sound"
 PATH = "./Music"
 PAGE_PATHS = [""]

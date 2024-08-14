@@ -18,7 +18,9 @@ digraph {
 Christian hip hop (originally gospel rap, also known as Christian rap, gospel hip hop or holy hip hop) is a subgenre of contemporary Christian music and hip hop music. It emerged from urban contemporary music and Christian media in the United States during the 1980s.
 
 ## Influences
+
 - [[Hip hop music]]
 
 ## Derivatives
+
 - [[Christian electronic dance music]]

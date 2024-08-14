@@ -32,6 +32,7 @@ digraph {
 Avant-funk (also called mutant disco in the early 1980s) is a music style in which artists combine funk and disco rhythms with an avant-garde or art rock mentality. Its most prominent era occurred in the late 1970s and 1980s among post-punk and no wave acts who embraced black dance music.
 
 ## Influences
+
 - [[Progressive rock]]
 - [[Punk rock]]
 - [[Funk]]
@@ -42,4 +43,5 @@ Avant-funk (also called mutant disco in the early 1980s) is a music style in whi
 - [[No wave]]
 
 ## Derivatives
+
 - [[Drum and bass]]

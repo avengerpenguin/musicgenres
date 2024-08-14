@@ -76,6 +76,7 @@ digraph {
 Indie rock is a subgenre of rock music that originated in the United States, United Kingdom and New Zealand from the 1970s to the 1980s. Originally used to describe independent record labels, the term became associated with the music they produced and was initially used interchangeably with alternative rock or "guitar pop rock".
 
 ## Influences
+
 - [[Punk rock]]
 - [[College rock]]
 - [[Jangle pop]]
@@ -84,6 +85,7 @@ Indie rock is a subgenre of rock music that originated in the United States, Uni
 - [[Post-punk]]
 
 ## Derivatives
+
 - [[Post-punk revival]]
 - [[Post-rock]]
 - [[Slacker rock]]

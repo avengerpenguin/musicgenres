@@ -20,8 +20,10 @@ digraph {
 Industrial hip hop is a fusion genre of industrial music and hip hop.
 
 ## Influences
+
 - [[Hip hop music]]
 
 ## Derivatives
+
 - [[Gabber]]
 - [[Illbient]]

@@ -58,6 +58,7 @@ The genre employs a driving beat that pulses through the music, creating an adre
 ### Electronic Elements
 
 Hi-NRG embraced electronic instrumentation, incorporating synthesizers, drum machines, and other technological advancements of the time. These elements gave the genre a futuristic and cutting-edge feel.
+
 ### Powerful Vocals
 
 Hi-NRG vocalists often deliver their lyrics with intense emotion and energy, perfectly complementing the music's high-octane nature.
@@ -74,8 +75,11 @@ Several artists and songs have come to epitomise the Hi-NRG genre:
 6. [The Flirts](https://amzn.to/3L17nER) - "Passion": The Flirts' "Passion" (1982) captures the essence of Hi-NRG with its energetic tempo, synth-driven melodies, and lively vocal delivery.
 
 ## Influences
+
 - [[Disco]]
+
 ## Derivatives
+
 - [[Eurobeat]]
 - [[Italo disco]]
 - [[UK hard house]]

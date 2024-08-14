@@ -16,4 +16,5 @@ digraph {
 Kpanlogo is a recreational dance and music form originating from the 1960s among urban youth in Accra, Ghana.
 
 ## Derivatives
+
 - [[Afrobeats]]

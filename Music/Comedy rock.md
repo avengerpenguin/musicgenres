@@ -20,6 +20,7 @@ digraph {
 Comedy rock is rock music that is comedic in nature. Oftentimes it is mixed with satire or irony.
 
 ## Influences
+
 - [[Comedy music]]
 - [[Rock music]]
 - [[Satirical music]]

@@ -102,6 +102,7 @@ digraph {
 Disco is a genre of dance music and a subculture that emerged in the 1970s from the United States' urban nightlife scene. Its sound is typified by four-on-the-floor beats, syncopated basslines, string sections, horns, electric piano, synthesizers, and electric rhythm guitars.
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Motown (music style)]]
 - [[LGBT music]]
@@ -116,6 +117,7 @@ Disco is a genre of dance music and a subculture that emerged in the 1970s from 
 - [[Philadelphia soul]]
 
 ## Derivatives
+
 - [[Afro/cosmic music]]
 - [[Jit]]
 - [[Europop]]

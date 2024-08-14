@@ -32,6 +32,7 @@ digraph {
 Samba rock (also known as samba soul, samba funk, and sambalanço) is a Brazilian dance culture and music genre that fuses samba with soul, rock, and funk. It emerged from the dance parties of São Paulo's lower-class black communities after they had been exposed to rock and roll and African-American music in the late 1950s.
 
 ## Influences
+
 - [[Samba]]
 - [[Blues]]
 - [[Bossa nova]]
@@ -42,4 +43,5 @@ Samba rock (also known as samba soul, samba funk, and sambalanço) is a Brazilia
 - [[Soul music]]
 
 ## Derivatives
+
 - [[Sambass]]

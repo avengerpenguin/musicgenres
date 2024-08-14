@@ -30,6 +30,7 @@ digraph {
 The mangue bit or manguebeat movement is a cultural movement created circa 1991 in the city of Recife in Northeast Brazil in reaction to the cultural and economic stagnation of the city. The movement largely focuses on music, but it has its own fashion and slang, and encompasses aspects of visual art. It mixes regional rhythms of Brazilian Northeast, such as maracatu, frevo, coco and forró, with rock, soul, raggamuffin, hip hop, funk and electronic music.
 
 ## Influences
+
 - [[Electronica]]
 - [[Funk]]
 - [[Alternative rock]]

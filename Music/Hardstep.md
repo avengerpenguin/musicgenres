@@ -16,4 +16,5 @@ digraph {
 Hardstep is a subgenre of drum and bass which emerged in 1994. It is characterised by a gritty production style that consists of an inner-city feel. The breaks are less choppy than oldschool jungle, and have faster and harder simple electronic melodies. One characteristic is an accentuated, yet sparse percussive beat. The genre found favour with junglists, and though it has been overtaken in popularity by techstep, the fans of the style still remain. Early Hardstep artists include DJ Hype and DJ Zinc.
 
 ## Influences
+
 - [[Darkcore]]

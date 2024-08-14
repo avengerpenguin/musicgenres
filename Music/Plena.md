@@ -16,4 +16,5 @@ digraph {
 Plena is a genre of music and dance native to Puerto Rico.
 
 ## Derivatives
+
 - [[Salsa music]]

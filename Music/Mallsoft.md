@@ -18,5 +18,6 @@ digraph {
 Mallsoft (also known as mallwave) is a vaporwave subgenre themed after retro shopping malls.
 
 ## Influences
+
 - [[Vaporwave]]
 - [[Ambient music]]

@@ -104,6 +104,7 @@ digraph {
 - [[Pop music]]
 
 ## Derivatives
+
 - [[Acid trance]]
 - [[Uplifting Trance]]
 - [[Balearic trance]]

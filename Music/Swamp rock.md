@@ -32,6 +32,7 @@ digraph {
 Swamp rock is a genre of rock music that originated in the mid-1960s as a fusion of rockabilly and soul music with swamp blues, country music and funk. The genre originated in Louisiana by artists such as Tony Joe White, but was subsequently popularized by California band Creedence Clearwater Revival.
 
 ## Influences
+
 - [[Country blues]]
 - [[Cajun music]]
 - [[Funk]]
@@ -42,4 +43,5 @@ Swamp rock is a genre of rock music that originated in the mid-1960s as a fusion
 - [[Rockabilly]]
 
 ## Derivatives
+
 - [[Tulsa sound]]

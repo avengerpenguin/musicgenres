@@ -57,12 +57,14 @@ Chicago House boasts several distinctive features that set it apart from other g
 6. [Farley Jackmaster Funk](https://amzn.to/45Oy5bQ) - "Love Can't Turn Around": Featuring the vocals of Darryl Pandy, this track (1986) is a perfect example of Chicago House's ability to fuse electronic sounds with heartfelt vocals.
 
 ## Influences
+
 - [[Post-disco]]
 - [[Italo disco]]
 - [[Hip hop music]]
 - [[Hi-NRG]]
 
 ## Derivatives
+
 - [[Techno]]
 - [[Deep house]]
 - [[Microhouse]]

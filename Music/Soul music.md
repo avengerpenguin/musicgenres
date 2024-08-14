@@ -144,12 +144,14 @@ digraph {
 Soul music is a popular music genre that originated in the African American community throughout the United States in the late 1950s and early 1960s. It has its roots in African-American gospel music, rhythm and blues. Soul music became popular for dancing and listening, where U.S. record labels such as Motown, Atlantic and Stax were influential during the Civil Rights Movement. Soul also became popular around the world, directly influencing rock music and the music of Africa. It also had a resurgence with artists like Erykah Badu under the genre neo-soul.
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Doo-wop]]
 - [[Gospel music]]
 - [[Traditional black gospel]]
 
 ## Derivatives
+
 - [[Rock music]]
 - [[Adult contemporary music]]
 - [[Contemporary R&B]]

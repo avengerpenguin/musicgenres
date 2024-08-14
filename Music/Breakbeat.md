@@ -52,6 +52,7 @@ digraph {
 Breakbeat is a broad type of electronic music that tends to use drum breaks sampled from early recordings of funk, jazz, and R&B. Breakbeats have been used in styles such as hip hop, jungle, drum and bass, big beat, breakbeat hardcore, and UK garage styles (including 2-step, breakstep and dubstep).
 
 ## Influences
+
 - [[Electro (music)]]
 - [[Post-disco]]
 - [[Funk]]
@@ -60,6 +61,7 @@ Breakbeat is a broad type of electronic music that tends to use drum breaks samp
 - [[Freestyle music]]
 
 ## Derivatives
+
 - [[Breakstep]]
 - [[Miami bass]]
 - [[Big beat]]

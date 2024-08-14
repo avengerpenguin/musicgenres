@@ -40,6 +40,7 @@ digraph {
 Dreampunk is a microgenre of electronic music characterized by its focus on cinematic ambience and field recordings, combined with various traits and techniques from electronic genres such as techno, jungle, electro, and dubstep.
 
 ## Influences
+
 - [[Electro (music)]]
 - [[Vaporwave]]
 - [[Downtempo]]
@@ -54,4 +55,5 @@ Dreampunk is a microgenre of electronic music characterized by its focus on cine
 - [[Synthwave]]
 
 ## Derivatives
+
 - [[Hardvapour]]

@@ -66,6 +66,7 @@ digraph {
 Ambient music is a genre of music that emphasizes tone and atmosphere over traditional musical structure or rhythm. It may lack net composition, beat, or structured melody. It uses textural layers of sound that can reward both passive and active listening and encourage a sense of calm or contemplation. The genre is said to evoke an "atmospheric", "visual", or "unobtrusive" quality. Nature soundscapes may be included, and the sounds of acoustic instruments such as the piano, strings and flute may be emulated through a synthesizer.
 
 ## Influences
+
 - [[Light music]]
 - [[Electronic music]]
 - [[Drone music]]
@@ -76,6 +77,7 @@ Ambient music is a genre of music that emphasizes tone and atmosphere over tradi
 - [[Lounge music]]
 
 ## Derivatives
+
 - [[Downtempo]]
 - [[Post-dubstep]]
 - [[Illbient]]

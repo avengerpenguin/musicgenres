@@ -77,11 +77,14 @@ Acid House is defined by a set of unique characteristics:
 4. [The KLF](https://www.amazon.co.uk/music/player/artists/B00GPH8O46/the-klf?&linkCode=ll2&tag=rossle-21&linkId=c7c3bbf22fe608da3564505a478b3459&language=en_GB&ref_=as_li_ss_tl) - "What Time Is Love?": The KLF's fusion of Acid House with pop sensibilities in "What Time Is Love?" (1988) exemplified the genre's versatility.
 5. [Hardfloor](https://www.amazon.co.uk/music/player/artists/B001EUK7JE/hardfloor?&linkCode=ll2&tag=rossle-21&linkId=11e8f8586363638a958883dba5fa3025&language=en_GB&ref_=as_li_ss_tl) - "Acperience 1": Known for their innovative approach to Acid House, Hardfloor's "Acperience 1" (1992) pushed the boundaries of the genre's sonic palette.
 6. [Armando](https://www.amazon.co.uk/music/player/artists/B001E3I9G4/armando?&linkCode=ll2&tag=rossle-21&linkId=f46beb80f4ae599c421f1980920e6409&language=en_GB&ref_=as_li_ss_tl) - "100% of Disin' You": Armando's track (1988) is an exhilarating journey through the Acid House landscape, showcasing the raw energy and intensity of the genre.
+
 ## Influences
+
 - [[Chicago house]]
 - [[Hi-NRG]]
 
 ## Derivatives
+
 - [[Hardvapour]]
 - [[Psychedelic trance]]
 - [[Techno]]

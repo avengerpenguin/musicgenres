@@ -56,6 +56,7 @@ digraph {
 Reggae fusion is a genre of reggae that mixes reggae and/or dancehall with other genres, such as pop, rock, hip hop, R&B, jazz, funk, soul, disco, electronic and latin.
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Lovers' rock]]
 - [[Electronic music]]
@@ -73,6 +74,7 @@ Reggae fusion is a genre of reggae that mixes reggae and/or dancehall with other
 - [[Soul music]]
 
 ## Derivatives
+
 - [[Dubtronica]]
 - [[Tropical house]]
 - [[Reggaestep]]

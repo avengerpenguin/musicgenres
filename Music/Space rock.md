@@ -20,8 +20,10 @@ digraph {
 Space rock is a music genre characterized by loose and lengthy song structures centered on instrumental textures that typically produce a hypnotic, otherworldly sound. It may feature distorted and reverberation-laden guitars, minimal drumming, languid vocals, synthesizers and lyrical themes of outer space and science fiction.
 
 ## Influences
+
 - [[Progressive rock]]
 
 ## Derivatives
+
 - [[Shoegaze]]
 - [[Post-rock]]

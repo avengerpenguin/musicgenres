@@ -16,4 +16,5 @@ digraph {
 The Batuque is a music and dance genre from Cape Verde.
 
 ## Derivatives
+
 - [[Choro]]

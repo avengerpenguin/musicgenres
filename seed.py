@@ -1,14 +1,14 @@
+import pathlib
 import urllib.error
-
-import yaml
 from typing import Set
+
 import graphviz
 import rdflib
-from SPARQLWrapper import SPARQLWrapper
-import pathlib
+import yaml
 from laconia import ThingFactory
-from rdflib import URIRef
 from pelican.utils import slugify
+from rdflib import URIRef
+from SPARQLWrapper import SPARQLWrapper
 
 
 def make_graph() -> rdflib.Graph:

@@ -104,6 +104,7 @@ digraph {
 Post-punk (originally called new musick) is a broad genre of punk music that emerged in the late 1970s as musicians departed from punk's traditional elements and raw simplicity, instead adopting a variety of avant-garde sensibilities and non-rock influences. Inspired by punk's energy and DIY ethic but determined to break from rock cliches, artists experimented with styles like funk, electronic music, jazz, and dance music; the production techniques of dub and disco; and ideas from art and politics, including critical theory, modernist art, cinema and literature. These communities produced independent record labels, visual art, multimedia performances and fanzines.
 
 ## Influences
+
 - [[Punk rock]]
 - [[Electronic music]]
 - [[Funk]]
@@ -115,6 +116,7 @@ Post-punk (originally called new musick) is a broad genre of punk music that eme
 - [[World music]]
 
 ## Derivatives
+
 - [[Minimal wave]]
 - [[Dark wave]]
 - [[Twee pop]]

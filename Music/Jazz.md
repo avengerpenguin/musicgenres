@@ -188,12 +188,14 @@ digraph {
 Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana in the late 19th and early 20th centuries, with its roots in blues and ragtime. Since the 1920s Jazz Age, it has been recognized as a major form of musical expression in traditional and popular music. Jazz is characterized by swing and blue notes, complex chords, call and response vocals, polyrhythms and improvisation. Jazz has roots in European harmony and African rhythmic rituals.
 
 ## Influences
+
 - [[Blues]]
 - [[Folk music]]
 - [[Ragtime]]
 - [[Spirituals]]
 
 ## Derivatives
+
 - [[Spiritual jazz]]
 - [[Hip hop tuga]]
 - [[Swing revival]]

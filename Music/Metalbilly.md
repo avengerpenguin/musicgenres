@@ -18,5 +18,6 @@ digraph {
 Metalbilly is the fusion of hard rock music with rockabilly.
 
 ## Influences
+
 - [[Hard rock]]
 - [[Rockabilly]]

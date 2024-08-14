@@ -32,6 +32,7 @@ digraph {
 Smooth jazz is a genre of commercially-oriented crossover jazz and easy listening music that became dominant in the mid 1970s to the early 1990s.
 
 ## Influences
+
 - [[Rhythm and blues]]
 - [[Jazz fusion]]
 - [[Pop music]]
@@ -40,6 +41,7 @@ Smooth jazz is a genre of commercially-oriented crossover jazz and easy listenin
 - [[Philadelphia soul]]
 
 ## Derivatives
+
 - [[Yacht rock]]
 - [[Vaporwave]]
 - [[Quiet storm]]

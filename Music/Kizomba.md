@@ -16,4 +16,5 @@ digraph {
 Kizomba is a dance and musical genre that originated in Angola in 1984. Kizomba means "party" in Kimbundu, a Bantu language spoken by the Ambundu in Angola.
 
 ## Influences
+
 - [[Zouk]]
